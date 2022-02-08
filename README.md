@@ -13,3 +13,5 @@ We have 1 database with customer information, both current customers and custome
 Database Download: Button on the page
 
 Reference: https://www.kaggle.com/sakshigoyal7/credit-card-customers
+
+#### You can also check the project via the link https://bit.ly/3GAa7nC
